@@ -1,16 +1,21 @@
-# tictactoe
+# 🎮 Tic Tac Toe App (Flutter)
 
-A new Flutter project.
+A fun and simple **Tic Tac Toe game** built using **Flutter**.  
+You play as **❌**, and the computer plays as **⭕**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧠 Play vs a basic **AI (Random Moves)**
+- ✅ **Win**, ❌ **Lose**, and 🔁 **Draw** detection
+- 🔄 **Reset** button to start a new game anytime
+- 📱 Clean and **responsive UI**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 How to Run the App
+
+1. 🔁 **Clone** the repository:
+   ```bash
+   git clone https://github.com/Darshan-Pipaliya1208/TecTacToeApp.git
